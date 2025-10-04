@@ -23,10 +23,3 @@ This website is hosted at - [Click Here](https://myhealthspot.netlify.app/)
 
 
 
-
-
-
-
-**API Key** - $2a$10$zyQpm6tNv6SvPgWM2E1D1eDfvL1zWu8pc2YI1prGoUikZKK4Zwhd.
-**Bin ID** - 68344ecd8a456b7966a583dd
-
