@@ -1,3 +1,4 @@
+
 # HealthSpot 
  Your health Our priority 
  <br>
@@ -21,19 +22,6 @@ This website is hosted at - [Click Here](https://myhealthspot.netlify.app/)
 
 
 
-## JSONBin Credentials 
-
-**Gmail:** healthspot92@gmail.com  
-
-**Password:** healthspot92@armaan  
-
-
-
-## EmailJS Credentials 
-
-**Gmail:** healthspot92@gmail.com  
-
-**Password:** healthspot92@armaan  
 
 
 
