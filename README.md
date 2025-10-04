@@ -1,5 +1,15 @@
 
 # HealthSpot 
+
+Team Name- QuanDevs
+Team id - T-115
+Team members - 1. Armaan Singh
+               2. Gurkirat Singh
+               3. Ipsit Kumar Sayal
+               4. Nikhil Yadav 
+               5. Rajdeep Kumar 
+
+               
  Your health Our priority 
  <br>
 
