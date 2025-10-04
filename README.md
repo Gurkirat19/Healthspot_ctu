@@ -3,11 +3,12 @@
 
 Team Name- QuanDevs <br>
 Team id - T-115 <br>
-Team members - 1. Armaan Singh <br>
-               2. Gurkirat Singh <br>
-               3. Ipsit Kumar Sayal <br>
-               4. Nikhil Yadav <br>
-               5. Rajdeep Kumar <br>
+Team members - <br> 
+1. Armaan Singh <br>
+2. Gurkirat Singh <br>
+3. Ipsit Kumar Sayal <br>
+4. Nikhil Yadav <br>
+5. Rajdeep Kumar <br>
 
                
  Your health Our priority 
